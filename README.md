@@ -1,6 +1,6 @@
 # Image-Blur-Detection-and-image-quality-check-python
-This code use calculation of Laplacian's variance method to detect blur in the image.
-It also use Image Quality Assessment : BRISQUE to calculate quality of image in a range of 0-100. Lower number is greater is the quality of image and vice versa.
+This code use calculation of Laplacian's variance method to detect blur images.
+It also use Image Quality Assessment : BRISQUE to calculate quality of image in a range of 0-100. Lower the number is greater is the quality of image and vice versa.
 
 ## Installation Instructions
 **Requirements**
